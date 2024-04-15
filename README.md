@@ -4,3 +4,11 @@ We are investigating the leading causes of cardiovascular disease, looking at tr
   geograhical location;
   demographics (age, gender, ethnicity, and EFU composition, number of children, educational attainment, source of income, and socio-economic status), and  in our present time; and
   history (e.g., look at leading causes 20 years ago)
+
+  q1 How does the level of alchohol comsumption affect heart disease?
+
+  q2 How does the amount of sleep affect heart health?
+
+  q3 How does body fat (BMI) / level of inactivity influencd heart disease?
+
+  q4 Is smoking the leading cause of heart disease?
