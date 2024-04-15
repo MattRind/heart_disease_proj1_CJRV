@@ -5,7 +5,7 @@ We are investigating the leading causes of cardiovascular disease, looking at tr
   demographics (age, gender, ethnicity, and EFU composition, number of children, educational attainment, source of income, and socio-economic status), and  in our present time; and
   history (e.g., look at leading causes 20 years ago)
 
-  q1 How does the level of alchohol comsumption affect heart disease?
+  q1 Is there a correlation between alchohol comsumption and heart disease?
 
   q2 How does the amount of sleep affect heart health?
 
