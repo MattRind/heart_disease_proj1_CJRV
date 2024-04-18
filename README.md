@@ -12,3 +12,6 @@ We are investigating the leading causes of cardiovascular disease, looking at tr
   q3 How does body fat (BMI) / level of inactivity influencd heart disease?
 
   q4 Is smoking the leading cause of heart disease?
+
+
+used https://www.kaggle.com/code/kennikonate/data-visualization-heart-disease/notebook for reference in how to code for the graphs
