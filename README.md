@@ -11,8 +11,10 @@ We are investigating the leading causes of cardiovascular disease, looking at tr
 
   q3 How does body fat (BMI) / level of inactivity influencd heart disease?
 
+  q4. Relationship Between Daily Food Consumption and Likelihood of Developing Heart Disease
 
-  q4 Is smoking the leading cause of heart disease?
+
+  q5 Is smoking the leading cause of heart disease?
 
 
 used https://www.kaggle.com/code/kennikonate/data-visualization-heart-disease/notebook for reference in how to code for the graphs
