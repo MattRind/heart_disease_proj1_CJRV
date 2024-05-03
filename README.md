@@ -13,7 +13,6 @@ We are investigating the leading causes of cardiovascular disease, looking at tr
 
   q4. Relationship Between Daily Food Consumption and Likelihood of Developing Heart Disease
 
-
   q5 Is smoking the leading cause of heart disease?
 
 
